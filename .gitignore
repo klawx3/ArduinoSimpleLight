@@ -12,6 +12,12 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+#Azure weas
+.idea/azureSettings.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+
 # Sensitive or high-churn files
 .idea/**/dataSources/
 .idea/**/dataSources.ids
